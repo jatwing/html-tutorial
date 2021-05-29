@@ -1,0 +1,10 @@
+<svg 
+  version="1.1"
+  baseProfile="full"
+  width="240px"
+  height="225px"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <polygon points="120,0 240,225 0,225" fill="green"/>
+</svg>
+
