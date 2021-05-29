@@ -1,3 +1,63 @@
-<video src="../public/rabbit320.webm" controls>
-  <p>Your browser doesn't support HTML5 video. Here is a <a href="../public/rabbit320.webm">link to the video</a> instead.</p>
-</video>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Meta examples</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!--
+      video
+    -->
+    <video
+      controls
+      width="400"
+      height="400"
+      autoplay
+      loop
+      muted
+      preload="auto"
+      poster="../public/poster.png"
+    >
+      <source src="../public/rabbit320.mp4" type="video/mp4" />
+      <source src="../public/rabbit320.webm" type="video/webm" />
+
+      Your browser doesn't support HTML5 video. Here is a
+      <a href="../public/rabbit320.mp4">link to the video</a> instead.
+    </video>
+    <!--
+      audio
+    -->
+    <audio controls>
+      <source src="../public/viper.mp3" type="audio/mp3" />
+      <source src="../public/viper.ogg" type="audio/ogg" />
+      <p>
+        Your browser doesn't support HTML5 audio. Here is a
+        <a href="../public/viper.mp3">link to the audio</a> instead.
+      </p>
+    </audio>
+    <!-- displaying video text tracks-->
+    <video controls>
+      <source src="../public/sintel-short.mp4" type="video/mp4" />
+      <source src="../public/sintel-short.webm" type="video/webm" />
+      <track
+        label="English"
+        kind="subtitles"
+        srclang="en"
+        src="subtitles/vtt/sintel-en.vtt"
+        default
+      />
+      <track
+        label="Deutsch"
+        kind="subtitles"
+        srclang="de"
+        src="subtitles/vtt/sintel-de.vtt"
+      />
+      <track
+        label="Español"
+        kind="subtitles"
+        srclang="es"
+        src="subtitles/vtt/sintel-es.vtt"
+      />
+    </video>
+  </body>
+</html>
