@@ -3,24 +3,41 @@
   <head>
     <meta charset="utf-8" />
     <title>HTML debugging examples</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <!--
+      include svg code inside html
+    -->
     <svg
       version="1.1"
       baseProfile="full"
-      width="300"
-      height="200"
+      width="300px"
+      height="200px"
       xmlns="http://www.w3.org/2000/svg"
     >
       <rect width="100%" height="100%" fill="black" />
       <circle cx="150" cy="100" r="90" fill="blue" />
     </svg>
+    <!--
+      adding svg to your pages
+    -->
+    <img
+      src="equilateral.png"
+      alt="triangle with all three sides equal"
+      width="240px"
+      height="208px"
+      srcset="equilateral.svg"
+    />
 
+    <div class="equilateral"></div>
 
-      <img
-    src="equilateral.svg"
-    alt="triangle with all three sides equal"
-    height="87"
-    width="100" />
+    <!--
+      embed an svg with an iframe
+    -->
+    <iframe src="equilateral.svg" width="240px" height="500" sandbox>
+      <img src="equilateral.png" alt="triangle with all three sides equal" />
+    </iframe>
+
   </body>
 </html>

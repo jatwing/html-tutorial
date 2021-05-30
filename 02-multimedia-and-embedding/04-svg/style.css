@@ -1,0 +1,7 @@
+.equilateral {
+  width: 240px;
+  height: 208px;
+  background: url("equilateral.png") no-repeat center;
+  background-image: url("equilateral.svg");
+  background-size: contain;
+}
