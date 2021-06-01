@@ -8,11 +8,11 @@
 
 3. [HTML Tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
 
-
 ## Attribution
 
-[Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) by [MDN Contributors](https://developer.mozilla.org/en-US/docs/Learn/HTML/contributors.txt) is licensed under [CC-BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/).
+[Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) by [MDN Contributors](https://developer.mozilla.org/en-US/docs/Learn/HTML/contributors.txt) is licensed under a [Creative Commons Attribution-ShareAlike 2.5 Generic License](https://creativecommons.org/licenses/by-sa/2.5/).
 
 ## License
 
-_HTML Tutorial_ is licensed under [CC-BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/).
+![CC-BY-SA 2.5](https://i.creativecommons.org/l/by-sa/2.5/88x31.png)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 2.5 Generic License](https://creativecommons.org/licenses/by-sa/2.5/).
