@@ -1,10 +1,12 @@
 # HTML Tutorial
 
-1. Introduction to HTML(https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+## Content
 
-2. Multimedia and embedding(https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
+1. [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
-3. HTML tables(https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
+2. [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
+
+3. [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
 
 
 ## Attribution
