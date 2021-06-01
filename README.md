@@ -6,7 +6,7 @@
 
 2. [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
 
-3. [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
+3. [HTML Tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
 
 
 ## Attribution
