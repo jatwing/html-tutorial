@@ -15,6 +15,6 @@ if [[ $1 =~ .*\.js ]]; then
 fi
 
 if [[ $1 =~ .*\.html ]]; then
-  open -a firefox $1
+  open -a "Firefox Developer Edition" $1
   exit 1
 fi
